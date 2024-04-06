@@ -1,5 +1,41 @@
 # 💫 About Me:
-I'm a Software Engineer currently looking for an opportunity in a new country, Canada.<br>I have a Communication Networks and Telecommunications degree<br>and attended the Master's programme in Software Engineering at ISEP<br>which I didn't finish because I emigrated to Canada.<br><br>Here's a snapshot of my journey:<br><br>🌐 Previous Experience:<br>- Software Engineer at Critical Manufacturing (Nov 2021 – Fev 2024)<br> - Maintenance and improvement of industrial customer applications<br> - Technologies: C#, .NET, Git/TFS, YAML, Azure Devops, Xaml, Docker, Kubernetes, Containers, CI/CD<br><br>- Software Developer at ExpandIndustria (Oct 2020 – Nov 2021)<br> - ERP software development using Hibernate, Java 7, SEAM 2, JPA, HTML, Restful Services, Oracle<br><br>- Oracle Consultant at Optimizer - Serviços e Consultadoria Informática Lda (Sep 2019 – Aug 2020)<br> - PL/SQL development, technical documentation, data analysis, schemas, and users management<br> - Data Conversion Framework management and maintenance<br><br>- IT Consultant at Sonae BIT Noesis (Nov 2018 – Sep 2019)<br> - Tester in a strategic project for SONAE MC<br> - GDPR compliance responsibility using Oracle SOA, Postman & APIGEE, SoapUI<br> - Execution of tests (Websites, front-end, Apps, middleware, EAI's, database integrations)<br> - Configuration of Reports in Jasper Reports<br> - SQL and PL\SQL programming<br><br>💡 Skills:<br>- Languages: C#, Java, SQL, PL/SQL<br>- Frameworks & Technologies: .NET, Hibernate, SEAM 2, JPA<br>- Web Development: HTML, Restful Services<br>- DevOps & Version Control: Git/TFS, YAML, Azure DevOps<br>- Containerization & Orchestration: Docker, Kubernetes<br>- Cloud Platforms: Azure (Azure DevOps)<br>- Continuous Integration/Continuous Deployment (CI/CD): Jenkins<br>- Database Management: Oracle<br>- Testing & QA: Postman, APIGEE, SoapUI<br>- Reporting: Jasper Reports
+I'm a Software Engineer currently looking for an opportunity in a new country, Canada.  
+I have a Communication Networks and Telecommunications degree  
+and attended the Master's programme in Software Engineering at ISEP  
+which I didn't finish because I emigrated to Canada.  
+
+Here's a snapshot of my journey:  
+
+🌐 Previous Experience:  
+- Software Engineer at Critical Manufacturing (Nov 2021 – Fev 2024)  
+  - Maintenance and improvement of industrial customer applications  
+  - Technologies: C#, .NET, Git/TFS, YAML, Azure Devops, Xaml, Docker, Kubernetes, Containers, CI/CD  
+
+- Software Developer at ExpandIndustria (Oct 2020 – Nov 2021)  
+  - ERP software development using Hibernate, Java 7, SEAM 2, JPA, HTML, Restful Services, Oracle  
+
+- Oracle Consultant at Optimizer - Serviços e Consultadoria Informática Lda (Sep 2019 – Aug 2020)  
+  - PL/SQL development, technical documentation, data analysis, schemas, and users management  
+  - Data Conversion Framework management and maintenance  
+
+- IT Consultant at Sonae BIT Noesis (Nov 2018 – Sep 2019)  
+  - Tester in a strategic project for SONAE MC  
+  - GDPR compliance responsibility using Oracle SOA, Postman & APIGEE, SoapUI  
+  - Execution of tests (Websites, front-end, Apps, middleware, EAI's, database integrations)  
+  - Configuration of Reports in Jasper Reports  
+  - SQL and PL\SQL programming  
+
+💡 Skills:  
+- Languages: C#, Java, SQL, PL/SQL  
+- Frameworks & Technologies: .NET, Hibernate, SEAM 2, JPA  
+- Web Development: HTML, JavaScript, Ajax, Restful Services  
+- DevOps & Version Control: Git/TFS, YAML, Azure DevOps  
+- Containerization & Orchestration: Docker, Kubernetes  
+- Cloud Platforms: Azure
+- Continuous Integration/Continuous Deployment (CI/CD): Jenkins, Azure DevOps  
+- Database Management: Oracle, Postgres, MongoDB, MySQL, Microsoft SQL Server  
+- Testing & QA: Postman, APIGEE, SoapUI  
+- Reporting: Jasper Reports
 
 
 ## 🌐 Socials:
@@ -11,8 +47,5 @@ I'm a Software Engineer currently looking for an opportunity in a new country, C
 ![](https://github-readme-stats.vercel.app/api?username=nuncosta92&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nuncosta92&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nuncosta92&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nuncosta92&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
