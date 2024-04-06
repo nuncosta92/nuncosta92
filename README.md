@@ -9,10 +9,11 @@ Here's a snapshot of my journey:
 🌐 Previous Experience:  
 - Software Engineer at Critical Manufacturing (Nov 2021 – Fev 2024)  
   - Maintenance and improvement of industrial customer applications  
-  - Technologies: C#, .NET, Git/TFS, YAML, Azure Devops, Xaml, Docker, Kubernetes, Containers, CI/CD  
+  - Technologies: C#, .NET, Git/TFS, YAML, Azure DevOps, Xaml, Docker, Kubernetes, Containers, CI/CD  
 
 - Software Developer at ExpandIndustria (Oct 2020 – Nov 2021)  
-  - ERP software development using Hibernate, Java 7, SEAM 2, JPA, HTML, Restful Services, Oracle  
+  - ERP software development
+  - Technologies: Java, Hibernate, SEAM 2, JPA, HTML, JavaScript, AJAX, Restful Services, Oracle  
 
 - Oracle Consultant at Optimizer - Serviços e Consultadoria Informática Lda (Sep 2019 – Aug 2020)  
   - PL/SQL development, technical documentation, data analysis, schemas, and users management  
