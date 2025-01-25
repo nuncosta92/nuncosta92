@@ -1,8 +1,7 @@
 # 💫 About Me:
 I'm a Software Engineer currently looking for an opportunity in a new country, Canada.  
 I have a Communication Networks and Telecommunications degree  
-and attended the Master's programme in Software Engineering at ISEP  
-which I didn't finish because I emigrated to Canada.  
+and attended the Master's programme in Software Engineering.
 
 Here's a snapshot of my journey:  
 
